@@ -1,0 +1,21 @@
+span {
+  border : 1px solid black;
+  padding : 1em;
+  width: 10em;
+  display: inline-block;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+.force_tres_faible {
+  background-color: red;
+}
+.force_faible {
+  background-color : #F06000;
+}
+.force_moyen {
+  background-color : orange;
+}
+.force_fort {
+  background-color : green;
+}
